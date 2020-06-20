@@ -1,7 +1,9 @@
 # paperlist_nlp_ir_recsys_ai_conference
 2016-至今 NLP/IR/RecSys/AI领域的相关顶会论文清单paperlist列表含目录，方便直接搜索关键字。
 
-涵盖的conferences包括AAAI/ACL/EMNLP/IJCAI/SIGIR/CIKM/WSDM/WWW/NIPS/COLING。会议列表可在```papers_index.txt```文件中查看。
+涵盖的conferences包括AAAI/ACL/EMNLP/IJCAI/SIGIR/CIKM/WSDM/WWW/NIPS/COLING。
+
+会议列表可在```papers_index.txt```文件中查看。
 
 ## How To Use
 直接使用Sublime/VSCode，在```papers.txt```中使用ctrl+F搜索关键字。
