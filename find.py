@@ -26,7 +26,7 @@ def search(keyword):
             for pc in page_dict:
                 if cnt >= pc[0] and cnt <= pc[1]:
                     print("-------------------------------")
-                    print(pc[2] + ":" + line)
+                    print(pc[2] + "("+ str(cnt) +")"+ ":" + line)
                     # print("-------------------------------")
                     res_cnt += 1
         cnt += 1
