@@ -12,6 +12,9 @@
 
 ```python find.py -q memory_generation```
 
+## Notes
+搜索时是精准匹配。举个例子，你要搜"pre-train"相关的论文，建议同时搜索"pre-train", "pretrain"等类似关键字，保证搜全:)
+
 ## Tips
 这是方便自己搜索文献的项目。
 
