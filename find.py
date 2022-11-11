@@ -36,7 +36,7 @@ def search(keyword):
     
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='paper search')
-    parser.add_argument('--q',type=str,help='query, delimated by _', default='dialogue generation')
+    parser.add_argument('-q',type=str,help='query, delimated by _', default='dialogue generation')
     args = parser.parse_args()
 
     load_pagedict()
