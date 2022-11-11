@@ -10,7 +10,7 @@
 
 可使用```find.py```进行简单的搜索功能，如搜索包含```memory```和```generation```的论文。
 
-```python find.py --q memory_generation```
+```python find.py -q memory_generation```
 
 ## Tips
 这是方便自己搜索文献的项目。
