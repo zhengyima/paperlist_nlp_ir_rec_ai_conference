@@ -13,6 +13,8 @@
 ```python find.py --q memory_generation```
 
 ## Tips
-这是方便自己搜索文献的项目。动机是因为acm和dblp搜索结果太乱，而且都无法完全覆盖以上会议（比如acm和dblp都搜不到acl）。
+这是方便自己搜索文献的项目。
+
+动机是因为acm和dblp搜索结果太乱，而且都无法完全覆盖以上会议（比如acm和dblp都搜不到acl）。
 
 之后可能会考虑更加友好的搜索方式。
